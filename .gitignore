@@ -1,0 +1,3 @@
+500*_lines*
+airflow_python_venv/*
+luigi_python_venv/*

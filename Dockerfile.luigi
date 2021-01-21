@@ -1,0 +1,1 @@
+FROM axiom/docker-luigi:latest
